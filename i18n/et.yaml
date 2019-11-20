@@ -1,24 +1,24 @@
 # Navigation
 
 - id: toggle_navigation
-  translation: Toggle navigation
+  translation: Näita menüüd
 
 - id: table_of_contents
-  translation: Table of Contents
+  translation: Sisukord
 
 - id: on_this_page
-  translation: On this page
+  translation: Sellel lehel
 
 - id: back_to_top
-  translation: Back to top
+  translation: Lehe algusse
 
 # General
 
 - id: related
-  translation: Related
+  translation: Vaata ka
 
 - id: minute_read
-  translation: min read
+  translation: min lugemine
 
 - id: previous
   translation: Tagasi
@@ -27,7 +27,10 @@
   translation: Edasi
 
 - id: figure
-  translation: "Figure %d:"
+  translation: "Kujutis %d:"
+
+- id: edit_page
+  translation: Muuda seda lehte
 
 # Buttons
 
@@ -213,10 +216,10 @@
 # Cookie consent
 
 - id: cookie_message
-  translation: This website uses cookies to ensure you get the best experience on our website.
+  translation: See veebisait kasutab küpsiseid, et pakkuda sulle isikustatud lehitsemiskogemust.
 
 - id: cookie_dismiss
-  translation: Got it!
+  translation: Selge!
 
 - id: cookie_learn
-  translation: Learn more
+  translation: Täpsemalt
